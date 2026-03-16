@@ -554,6 +554,7 @@ const googleModels = [
   "gemini-exp-1206",
   "gemini-2.0-flash",
   "gemini-2.5-flash",
+  "gemini-3.0-flash",
   "gemini-2.0-flash-live",
   "gemini-2.5-flash-live",
   "gemini-2.0-flash-exp",
